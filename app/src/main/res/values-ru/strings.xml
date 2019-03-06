@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsumersList</string>
+
+    <string name="first_name_hint">Введите имя</string>
+    <string name="last_name_hint">Введите фамилию</string>
+    <string name="phone_hint">Введите номер телефона</string>
+    <string name="email_hint">Введите адрес электронной почты</string>
+
+    <string name="first_name_label">Имя</string>
+    <string name="last_name_label">Фамилия</string>
+    <string name="phone_label">Телефон</string>
+    <string name="email_label">Электронная почта</string>
+
+    <string name="first_page">Первый</string>
+    <string name="last_page">Последний</string>
+
+    <string name="add_consumer">Добавить потребителя</string>
+    <string name="show_subtitle">Показать субтитры</string>
+    <string name="hide_subtitle">Спрятать субтитры</string>
+    <string name="delete_crime">Удалить потребителя</string>
+
+    <string name="there_is_no_consumers">Нет еще потребителей</string>
+    <string name="incorrect_pin">Пароль введен неправильно.</string>
+    <string name="enter_password">Введите пароль</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d потребитель</item>
+        <item quantity="few">%1$d потребителя</item>
+        <item quantity="many">%1$d потребителей</item>
+    </plurals>
+
+</resources>

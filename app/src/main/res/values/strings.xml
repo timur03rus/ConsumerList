@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ConsumersList</string>
+
+    <string name="first_name_hint">Enter a first name</string>
+    <string name="last_name_hint">Enter a last name</string>
+    <string name="phone_hint">Enter a phone number</string>
+    <string name="email_hint">Enter an email address</string>
+
+
+    <string name="first_name_label">First name</string>
+    <string name="last_name_label">Last name</string>
+    <string name="phone_label">Phone</string>
+    <string name="email_label">Email</string>
+
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+
+    <string name="add_consumer">Add consumer</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="delete_crime">Delete consumer</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d consumer</item>
+        <item quantity="other">%1$d consumers</item>
+    </plurals>
+
+    <string name="consumer_photo_button_description" translatable="false">Take photo</string>
+    <string name="consumer_photo_no_image_description" translatable="false">
+        Consumer scene photo (not set)
+    </string>
+    <string name="consumer_photo_image_description" translatable="false">Consumer scene photo (set)</string>
+    <string name="there_is_no_consumers" translatable="false">There is no consumers</string>
+    <string name="incorrect_pin">Password is incorrect.</string>
+    <string name="enter_password">Enter password</string>
+</resources>
